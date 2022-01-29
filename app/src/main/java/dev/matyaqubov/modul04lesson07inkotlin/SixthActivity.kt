@@ -26,7 +26,7 @@ class SixthActivity : AppCompatActivity() {
     }
 
     private fun initViews() {
-        val text = "I would like to do something similar to the https://twitter.com app"
+        val text = "I would like to do something similar to the https://Facebook.com app"
         setURL(text)
     }
 
